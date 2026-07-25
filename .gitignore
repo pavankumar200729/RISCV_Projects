@@ -1,0 +1,5 @@
+*.log
+*.vcd
+*.out
+*.swp
+*.tmp
